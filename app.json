@@ -9,7 +9,7 @@
     "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "put session id here"
+            "value": "LAKA-MD=ZhpUAA5R#k3VxikO8-XkydiI7XQJwpUPrGSU7BWjOsPJia4qIDQE"
         }
     },
          "buildpacks": [
